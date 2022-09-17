@@ -1,5 +1,5 @@
 Info:
 
-Main Discord Server: https://discord.gg/bbservices
+Main Discord Server: https://discord.gg/Rg66JsKDXs
 
-Developer/Owner: SYRUM
+Developer/Owner: CLOKZ
